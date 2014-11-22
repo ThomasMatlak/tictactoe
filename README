@@ -1,4 +1,4 @@
-Tic Tac Toe v. 1.0 22 November 2014
+Tic Tac Toe v1.2 22 November 2014
 ===================================
 Author: Thomas Matlak
 ---------------------
@@ -8,7 +8,7 @@ github: ThomasMatlak
 Description
 -----------
 
-This is my final project for CSCI100 at the College of Wooster. It is a game of Tic-Tac-Toe featuring a two player mode and I am planning on adding a single player mode against the computer.
+This is my final project for CSCI100 at the College of Wooster. It is a game of Tic-Tac-Toe featuring both single player and two player modes.
 I used the Tkinter package to handle visualizing the game and detecting user input.
 
 
