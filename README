@@ -1,0 +1,25 @@
+Tic Tac Toe v. 1.0 22 November 2014
+===================================
+Author: Thomas Matlak
+---------------------
+github: ThomasMatlak
+
+
+Description
+-----------
+
+This is my final project for CSCI100 at the College of Wooster. It is a game of Tic-Tac-Toe featuring a two player mode and I am planning on adding a single player mode against the computer.
+I used the Tkinter package to handle visualizing the game and detecting user input.
+
+
+How to Run
+----------
+
+To run the game:
+
+1. Make sure Python is installed on your machine
+
+2. Make sure you have the Tkinter package available (if not: http://tkinter.unpythonic.net/wiki/How_to_install_Tkinter)
+
+3. run ticTacToe.py from command line/terminal
+	>python ticTacToe.py
